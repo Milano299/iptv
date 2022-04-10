@@ -1,12 +1,13 @@
 #EXTM3U
 
 #EXTINF:-22
-https://sports-localiptv.ml/CRICKET_SERIES_CHANNEL_1.m3u8
+https://football-localiptv.ml/PREMIER_LEAGUE_LIVE_3.m3u8
 #EXTINF:-23
-https://sports-localiptv.ml/CRICKET_SERIES_CHANNEL_3.m3u8
+https://football-localiptv.ml/PREMIER_LEAGUE_LIVE_2.m3u8
 
 #EXTINF:-4
-http://103.135.132.17:98/hls/stream3.m3u8
+https://football-localiptv.ml/PREMIER_LEAGUE_LIVE_1.m3u8
+
 
 #EXTINF:-1 
 http://103.149.130.122:8089/102/index.m3u8
