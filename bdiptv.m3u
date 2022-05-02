@@ -1,32 +1,13 @@
 #EXTM3U
-
-#EXTINF:-22
-https://football-localiptv.ml/PREMIER_LEAGUE_LIVE_3.m3u8
-#EXTINF:-23
-https://football-localiptv.ml/PREMIER_LEAGUE_LIVE_2.m3u8
-
-#EXTINF:-4
-https://football-localiptv.ml/PREMIER_LEAGUE_LIVE_1.m3u8
-
-
-#EXTINF:-1 
-http://103.149.130.122:8089/102/index.m3u8
-
-#EXTINF:-2
-http://103.149.130.122:8089/1/index.m3u8
-
-#EXTINF:-3
-http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",82.Live Sports
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/tIZsuGD.png" group-title="𝐂𝐑𝐈𝐂𝐊𝐄𝐓 𝐒𝐄𝐑𝐈𝐄𝐒", ᴄʀɪᴄᴋᴇᴛ sᴇʀɪᴇs • ℓοϲαℓ ѕροяτѕ 2
-https://playlist-localiptv.ml/CRICKET_SERIES_CHANNEL_2.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/tIZsuGD.png" group-title="𝐂𝐑𝐈𝐂𝐊𝐄𝐓 𝐒𝐄𝐑𝐈𝐄𝐒", ᴄʀɪᴄᴋᴇᴛ sᴇʀɪᴇs • ℓοϲαℓ ѕροяτѕ 3
-https://playlist-localiptv.ml/CRICKET_SERIES_CHANNEL_3.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/tIZsuGD.png" group-title="𝐂𝐑𝐈𝐂𝐊𝐄𝐓 𝐒𝐄𝐑𝐈𝐄𝐒", ᴄʀɪᴄᴋᴇᴛ sᴇʀɪᴇs • ℓοϲαℓ ѕροяτѕ 4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports",87.Star Sports 1 HD
+http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
+http://stream.accessnetbd.com/hls/sky12.m3u8
+http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
+http://103.124.110.34:8082/gtv/index.m3u8
+http://103.124.110.34:8082/tsp/index.m3u8
+http://208.86.19.13:81/712.stream/index.m3u8
+http://42.201.253.14:4090/play/a09a/index.m3u8
+http://42.201.253.14:4090/play/a097/index.m3u8
+http://42.201.253.14:4090/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",88.Star Sports 2
 http://103.55.144.46/hls/starsports2.m3u8
