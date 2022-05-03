@@ -9,27 +9,23 @@ http://42.201.253.14:4090/play/a09a/index.m3u8
 http://42.201.253.14:4090/play/a097/index.m3u8
 http://42.201.253.14:4090/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",88.Star Sports 2
-http://103.55.144.46/hls/starsports2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports",89.Star Sports Select 1 HD 
+http://dds.oncast.me:1934/dlive/sp1.stream/chunks.m3u8
+http://dds.oncast.me:1934/dlive/sp2.stream/chunks.m3u8
+http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8
+http://dds.oncast.me:1934/dlive/sp2.stream/chunks.m3u8
+http://dds.oncast.me:1934/dlive/sp6.stream/chunks.m3u8
+http://dds.oncast.me:1934/dlive/sp7.stream/chunks.m3u8
+http://dds.oncast.me:1934/dlive/sp9.stream/chunks.m3u8
+http://dds.oncast.me:1934/dlive/sp10.stream/chunks.m3u8
+http://dds.oncast.me:1934/dlive/gz.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports",90.Star Sports Select 2 HD
-http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports",91.Sky Sports Cricket
-http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports",92.Sky Sports Football
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",93.Ten Cricket
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",94.PTV Sports
-http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+https://stream.rangdhanu.live/IPLLiveHD/tracks-v1a1/mono.m3u8?token=8e872869794dc42a30f3dd3db0ddbbd6f7cf9917-ea633072a0d6b6b92bd0d02440a73d68-1651568414-1651557614
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
+https://stream.rangdhanu.live/StarSports2HD/tracks-v1a1/mono.m3u8?token=4f839d5a6cafc37a3857e4a93710bbd87d3cd651-4fa403df81330a23998c9f1bb6f22a28-1651568705-1651557905
+https://stream.rangdhanu.live/StarSportsSelect1/tracks-v1a1/mono.m3u8?token=ddaef050b56af1c51ff54cd7647c5e11a518fa09-8719e889470818da051ca6f3af4737ba-1651568740-1651557940
+https://stream.rangdhanu.live/StarSportsSelect2/tracks-v1a1/mono.m3u8?token=b6b198c2d667f826ecb75e594de64a13b5ec0903-e1ce0896ca8fe993b607a085e78cdd5b-1651568785-1651557985
 
-#EXTINF:-1,91.Sky Sports Cricket
-http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1,92.Sky Sports Football
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1,93.Ten Cricket
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+
 
 #EXTINF:-1,01.Bangladesh Television
 http://stream.wowzacdn.com/fh3rhr3j3/23998_hhs/btv.m3u8
