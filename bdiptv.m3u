@@ -1,10 +1,5 @@
 #EXTM3U
-http://tv.binudon.com:8080/StarSports1HD/tracks-v1a1/mono.m3u8?token=4b76ac287f3cdcd74a0f5776bb116e6cd79b66b9-b122bac6fa0ccaedb913833f1f6247fc-1663416866-1663406066
-http://tv.binudon.com:8080/StarSports2HD/tracks-v1a1/mono.m3u8?token=6b8f9b737cf7abad9c8951b3f277d39d6904fa8c-4cbb2b8158bbf34152ae41ee65eaf09b-1663416966-1663406166
-http://tv.binudon.com:8080/StarSportsSelect1/tracks-v1a1/mono.m3u8?token=b8fe338a71effafa9f2611524054d950dcdbcdc2-244c6997ef38e74ee6cec3d97c0d3c1d-1663416994-1663406194
-http://tv.binudon.com:8080/StarSportsSelect2/index.m3u8?token=d1bd84d38ae45cec68d60293860bee99213cd4fe-0e012b109e1319d261e00504d7454d60-1663417017-1663406217
-http://tv.binudon.com:8080/PTVSports/tracks-v1a1/mono.m3u8?token=01ac1ed74306bf66f2692d369a868153e674e33e-f3bdbf7214879388a344851b2fd974af-1663417161-1663406361
-http://tv.binudon.com:8080/GaziTV/tracks-v1a1/mono.m3u8?token=a0be15d7af80ca9bd1db26c11ef7bc7e16f777c1-7393a32d38513ecef620660e585317a6-1663417200-1663406400
+http://103.16.24.54:8080/channel1/index.m3u8
 
 http://172.28.28.6/8.m3u8
 http://103.102.27.172:6464/Channel-1/index.m3u8
