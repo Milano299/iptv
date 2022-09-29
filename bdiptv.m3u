@@ -1,16 +1,12 @@
 #EXTM3U
-http://iptv.sarkernet.com/hls/stersports1hd.m3u8
-http://103.16.24.54:8080/channel1/index.m3u8
 http://103.162.136.235:4500/play/a015/index.m3u8
 http://AllLiveSportsLinks-Stream.chadasaniya.cf:8080/nayeem69/Star-Sports1/playlist.m3u8
 
-
-http://iptv.sarkernet.com/hls/Star_Sport_Select1HD.m3u8
-http://iptv.sarkernet.com/hls/select2.m3u8
 http://103.162.136.235:4500/play/a016/index.m3u8
 http://103.162.136.235:4500/play/a013/index.m3u8
 
 http://172.28.28.6/8.m3u8
+http://172.28.28.6/12.m3u8
 http://103.102.27.172:6464/Channel-1/index.m3u8
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
